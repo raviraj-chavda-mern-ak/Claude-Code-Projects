@@ -1,0 +1,6 @@
+[submodule "claude-udemy"]
+	path = claude-udemy
+	url = https://github.com/raviraj-chavda-mern-ak/claude-udemy
+[submodule "hookhub"]
+	path = hookhub
+	url = https://github.com/raviraj-chavda-mern-ak/hookhub
